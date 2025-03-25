@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import mongoose from "mongoose";
 
 let cached = global.mongoose
@@ -27,3 +28,6 @@ async function connectDB() {
 }
 
 export default connectDB
+=======
+//abcd
+>>>>>>> 6be81944983b0614027cd164e81f45df5748e911
